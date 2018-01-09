@@ -20,6 +20,8 @@ NOTE: The only modification to the source code required by the user is as follow
 	- For each network, specify the parameters:
 		- Iterations per training sample
 		- Memory length (# of training datapoints) for BPTT algorithm
+			- "1" for feedforward layered network WITHOUT backpropagation
+			- >1 for a recurrent network WITH backpropagation (i.e. for ML = 5, data will backpropagate through 5 samples)
 		- Number of hidden layers
 		- Units per hidden layer.
 	- For all networks, specify the threshold steepness (default 1).
