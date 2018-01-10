@@ -35,7 +35,9 @@ NOTE: The only modification to the source code required by the user is as follow
 	- Change in selected hidden unit weights over time (Figure 2)
 	- Change in selected context unit weights over time (Figure 3)
 	- Network outputs vs. target outputs after training (Figure 4).
-The name of each figure specifies the neural network architecture used to generate the data in the figure, and each figure is stored in the folder containing the downloaded source code.
+The name of each figure specifies the neural network architecture used to generate the data in the figure, and each figure is stored in the folder containing the downloaded source code. Workspace data saved in this folder is utilized by the GUI.
+
+5. To view training data and analysis of the trained networks, select the desired simulation from the dropdown list.
 
 NOTE:
 
