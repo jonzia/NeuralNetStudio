@@ -1,3 +1,5 @@
+--- NEURAL NET STUDIO ---
+
 Recurrent Neural Network (RNN) Open Source Code
 
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks.
