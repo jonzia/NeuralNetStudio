@@ -1,4 +1,5 @@
 --- NEURAL NET STUDIO ---
+https://www.youtube.com/watch?v=WBxCHDFzexQ
 
 Recurrent Neural Network (RNN) Open Source Code
 
