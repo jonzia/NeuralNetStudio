@@ -1,4 +1,4 @@
-# NEURAL NET STUDIO
+# NEURAL NET STUDIO v2.0.1
 
 Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
