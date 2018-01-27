@@ -23,7 +23,7 @@ This program works for both recurrent and non-recurrent networks, and any number
 		- Iterations per training sample
 		- Memory length (# of training datapoints) for BPTT algorithm
 			- "1" for feedforward layered network WITHOUT backpropagation
-			- >1 for a recurrent network WITH backpropagation
+			- \>1 for a recurrent network WITH backpropagation
 			(i.e. for ML = 5, data will backpropagate through 5 samples)
 		- Number of hidden layers
 		- Units per hidden layer.
