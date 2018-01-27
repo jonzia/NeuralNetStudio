@@ -10,6 +10,8 @@ The number of input units in the network is defined by the number of data channe
 
 This program works for both recurrent and non-recurrent networks, and any number of different neural network architectures can be tested at once. The program is automatically formatted for parallel processing across computer cores.
 
+![Recurrent Neural Network Architecture](RNN.png)
+
 ### To Run
 1. Download all of the MATLAB files.
 
@@ -44,4 +46,6 @@ The name of each figure specifies the neural network architecture used to genera
 
 **(2)** The input data should be a .txt file with columns formatted as follows:
 
-*FEATURE 1 | FEATURE 2 | ... | FEATURE N | LABEL*
+FEATURE 1 | FEATURE 2 | ... | FEATURE N | LABEL
+----------|-----------|-----|-----------|------
+... | ... | ... | ... | ...
