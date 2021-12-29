@@ -1,6 +1,6 @@
-# NEURAL NET STUDIO v2.0.1
+# Neural Net Studio v2.0.1
 
-Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)! **(3)**
+Check out the new GUI on [Youtube](https://www.youtube.com/watch?v=WBxCHDFzexQ)!
 
 ## Description
 This program trains and analyzes recurrent neural networks (RNNs) as well as non-recurrent feedforward networks.
@@ -49,5 +49,3 @@ The name of each figure specifies the neural network architecture used to genera
 FEATURE 1 | FEATURE 2 | ... | FEATURE N | LABEL
 ----------|-----------|-----|-----------|------
 ... | ... | ... | ... | ...
-
-**(3)** If you'd like to learn more about the design process and motivation for this program, feel free to check out my [blog](https://www.jonzia.me/projects/neural-net-studio)!
